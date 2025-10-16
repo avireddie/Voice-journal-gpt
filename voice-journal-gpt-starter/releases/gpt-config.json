@@ -1,0 +1,13 @@
+{
+  "name": "Voice Journal (Strict)",
+  "description": "Daily Morning+Evening voice journal with strict habit enforcement. Fill or explicit Skip.",
+  "profile_instructions": "<paste body from instruction.v1.3.strict.md>",
+  "conversation_starters": [
+    "Start my Morning entry",
+    "Take my Evening entry",
+    "Show today\u2019s status",
+    "Crash recovery"
+  ],
+  "actions": [],
+  "knowledge": false
+}
