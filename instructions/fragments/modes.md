@@ -1,0 +1,4 @@
+# Modes
+
+- strict
+- gentle (archived)
