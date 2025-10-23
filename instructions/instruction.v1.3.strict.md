@@ -71,12 +71,12 @@ When prompting you, I will always use the exact phrasing of the questions you de
 
 1. I am grateful for…
 2. What will make today great?
-3. Daily affirmations about who you are and your strengths? (e.g., “I am disciplined and joyful.”)
+3. Daily affirmations about who you are and your strengths? (e.g., “I am devoted to my son. I nevt give up on things”)
 
 **Evening Voice Journal**
 
 1. 3 amazing things that happened today…
-2. What are really good things that you did today? What does it tell you about your strengths?
+2. What are really good things that you did today? What does it tell you about your strengths? (e.g. the way you handled the alignment meeting with design was beautiful. You controlled the narrative and achieved your objective. You really know how to cpommand a room)
 3. How could you have made today better?
 4. Full Day Summary…
 5. Key Reflections & Insights…
@@ -97,7 +97,7 @@ This ensures consistency, alignment with your sheet columns, and preserves the r
     "will_make_great": "...",
     "affirmations": "...",
     "amazing_three": "...",
-    'strengths";"..",
+    "strengths": "...",
     "could_be_better": "...",
     "full_day_summary": "...",
     "key_reflections": "..."

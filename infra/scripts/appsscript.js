@@ -1,9 +1,9 @@
 // Apps Script stub (see your existing working script; this is just a reminder file).
 // Ensure doPost/doGet, shared secret auth, and rollup logic exist.
-//const SHEET_ID = "1QmHu1QzSjWolV0taAqDe7eobVWu6fO55yyfgfU_gbAc"; // <-- replace with your Google Sheet ID
-//const SHEET_NAME = "Sheet1"; // change if your tab name differs
-//const TZ = "Asia/Kolkata";
-//const DAY_RE = /^\d{4}-\d{2}-\d{2}$/; // YYYY-MM-DD
+const SHEET_ID = "1QmHu1QzSjWolV0taAqDe7eobVWu6fO55yyfgfU_gbAc"; // <-- replace with your Google Sheet ID
+const SHEET_NAME = "Sheet1"; // change if your tab name differs
+const TZ = "Asia/Kolkata";
+const DAY_RE = /^\d{4}-\d{2}-\d{2}$/; // YYYY-MM-DD
 
 function doPost(e) {
     try {
@@ -20,6 +20,7 @@ function doPost(e) {
         body.will_make_great || "",
         body.affirmations || "",
         body.amazing_three || "",
+        body.strengths || "",
         body.could_be_better || "",
         body.full_day_summary || "",
         body.key_reflections || ""
@@ -52,6 +53,7 @@ function doPost(e) {
         p.will_make_great || "",
         p.affirmations || "",
         p.amazing_three || "",
+        p.strengths || "",
         p.could_be_better || "",
         p.full_day_summary || "",
         p.key_reflections || ""
