@@ -7,7 +7,7 @@ export default defineComponent({
 
     // Forward JSON directly
     const res = await fetch(
-      "https://script.google.com/macros/s/AKfycbzaGHxQpgOxAhsyMk0VL_1_kXrki9_kIE44p1luAx_yOkMpgZYvJ1aLbFqgdTFC-WvV/exec",
+      "https://script.google.com/macros/s/AKfycbxNsPhusT13DW_AK3YnR4E4oZi5gf06kzBPD9vGsOTD9Ra8Eko1FDRG8OoqHOpm5zFD/exec",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
